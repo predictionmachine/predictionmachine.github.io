@@ -1,3 +1,5 @@
+![prediction machine logo](/assets/pm_logo.jpg)
+
 ## About Prediction Machine
 
 Prediction Machine researches applications of large scale machine learning to

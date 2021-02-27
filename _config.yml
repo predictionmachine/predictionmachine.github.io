@@ -2,4 +2,4 @@ repository: "predictionmachine/predictionmachine.github.io"
 title: Prediction Machine
 description: Advancing State of the Art in Time Series Prediction
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine

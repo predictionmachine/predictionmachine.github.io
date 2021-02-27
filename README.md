@@ -1,4 +1,4 @@
-![prediction machine logo](/assets/pm_logo.png)
+![prediction machine logo](/assets/pm_logo.png =250x)
 
 ## About Prediction Machine
 
